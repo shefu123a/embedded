@@ -72,7 +72,8 @@ double cumlative_distance=0;
 				
 			}
 		
-		
+		Prev_Lat=Current_Lat;
+	    Prev_Long=Current_Long;
 		
 		}
 		
